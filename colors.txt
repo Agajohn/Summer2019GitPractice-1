@@ -7,3 +7,4 @@ pink
 white
 orange
 cyan
+Azuri
